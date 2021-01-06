@@ -1,9 +1,0 @@
-pandas==0.23.0
-beautifulsoup4
-pyquery
-numpy
-flask
-pymongo
-requests
-lxml
-redis
